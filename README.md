@@ -14,7 +14,7 @@ http://localhost/google-recaptcha-php
 ```    
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/func_get_args-glob/main/Screenshots/Output.png)
+![](https://raw.githubusercontent.com/codehafeez/google-recaptcha-php/main/Screenshots/Output.png)
 
 
 ## 🔗 www.codehafeez.com
